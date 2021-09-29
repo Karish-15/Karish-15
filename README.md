@@ -5,6 +5,6 @@
 </p>
 
 ## **Languages that I've worked with**
-<a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 
