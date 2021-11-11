@@ -7,12 +7,12 @@
  <a href="https://www.instagram.com/karish.15/"> <img src="https://img.icons8.com/ios-glyphs/60/000000/instagram-circle.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## Currently Learning:  
+- **Currently Learning**:  
 
   - Python libraries
   - Improving my Linux-fu
 
-## Currently Working on:
+- **Currently Working on**:
 
   - [Fantasy sports team maker](https://github.com/Karish-15/Fantasy-Sports-Team-Maker) (Automating stuff and working on to form better teams)
 
