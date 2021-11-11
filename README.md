@@ -16,9 +16,9 @@
 
   - [Fantasy sports team maker](https://github.com/Karish-15/Fantasy-Sports-Team-Maker) (Automating stuff and working on to form better teams)
 
-  
 
-# 				**Languages and tools that I've worked with**:
+
+# 				<div style="text-align:right">**Languages and tools that I've worked with**:</div>
 
 ​																								<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
 
