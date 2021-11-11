@@ -1,5 +1,5 @@
 ### Hi there 👋,<br>**I'm Karish Chaudhary**<br>
-
+---
 ### **Find me on:**
 <p align="left">
  <a href="https://www.linkedin.com/in/karish-chaudhary/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
