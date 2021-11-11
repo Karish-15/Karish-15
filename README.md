@@ -20,5 +20,5 @@
 
 <h1 align = "center">Languages and tools that I've worked with:</h1> 
 
-​																								<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
+​																								<div align="center"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
 
