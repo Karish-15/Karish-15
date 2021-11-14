@@ -9,12 +9,12 @@
 
 ---
 
-- **Currently Learning**:  
+### - **Currently Learning**:  
 
   - Python libraries
   - Improving my Linux-fu
 
-- **Currently Working on**:
+### - **Currently Working on**:
 
   - [Fantasy sports team maker](https://github.com/Karish-15/Fantasy-Sports-Team-Maker) (Automating stuff and working on to form better teams)
 
