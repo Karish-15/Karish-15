@@ -11,7 +11,7 @@
 
 ### - **Currently Learning**:  
 
-  - Python libraries(Bokeh, Pandas and OpenCV currently)
+  - Python libraries(Bokeh, Pandas and OpenCV atm)
   - Improving my Linux-fu
 
 ### - **Currently Working on**:
