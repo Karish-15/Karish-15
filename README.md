@@ -1,5 +1,5 @@
 <div align="center">
- <h2> Hi there 👋,<br>**I'm Karish Chaudhary**<br></h2>
+ <h2> Hi there 👋,<br>I'm Karish Chaudhary<br></h2>
 </div>
 
 ### **Find me on:**
