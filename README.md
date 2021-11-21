@@ -18,7 +18,7 @@
 
 ### - **Currently Working on**:
 
-  - [Fantasy sports team maker](https://github.com/Karish-15/Fantasy-Sports-Team-Maker) (Automating stuff and working on to form better teams)
+  - [Fantasy sports team maker](https://github.com/Karish-15/Fantasy-Sports-Team-Maker) (Automating stuff and working on forming better teams)
 
 
 
