@@ -13,7 +13,7 @@
 
 ### - **Currently Learning**:  
 
-  - Python libraries(Bokeh, Pandas and OpenCV atm)
+  - Python libraries(Django, Pandas and OpenCV atm)
   - Improving my Linux-fu
 
 ### - **Currently Working on**:
