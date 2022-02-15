@@ -18,7 +18,7 @@
 
 ### - **Currently Working on**:
 
-  - [Fantasy sports team maker](https://github.com/Karish-15/Fantasy-Sports-Team-Maker) 
+  - Django Projects
 
 
 
