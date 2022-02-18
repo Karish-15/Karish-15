@@ -13,7 +13,7 @@
 
 ### - **Currently Learning**:  
 
-  - Python libraries(Django, Pandas and OpenCV atm)
+  - Django
   - Improving my Linux-fu
 
 ### - **Currently Working on**:
