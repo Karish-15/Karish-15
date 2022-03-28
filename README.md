@@ -24,6 +24,6 @@
 
 <h1 align = "center">Languages and tools that I've worked with:</h1> 
 <div align="center">
- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/flask.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/flask.png"/> <img src="https://img.icons8.com/color/60/000000/django.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
 
  </div>
